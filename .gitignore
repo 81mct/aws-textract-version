@@ -1,0 +1,6 @@
+# Ignore system and user files
+.vscode/
+__pycache__/
+*.log
+*.tmp
+.DS_Store
